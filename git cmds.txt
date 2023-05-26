@@ -1,0 +1,32 @@
+>> git status
+
+>> git init
+
+>> git add .
+  >> git restore <filename> (file delete vaye)
+
+>> git commit -m "name"
+
+>> git branch -m <branchname>
+  >> git branch (shows all branch) 
+  >> git branch name (naya branch banauni)
+  >> git checkout name (branch ma shift huni)
+
+
+//Git hub ma gaeara repository banuni 
+
+>> git remote add origin <repository ko link>
+
+>> git push origin <branch>
+Or
+>> git push origin "main"
+
+
+
+
+// Github ma push vako lai clone banuni 
+
+>> git clone <repository ko link>
+or
+>> git clone <repository ko link> .
+ 
