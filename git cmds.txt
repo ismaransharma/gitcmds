@@ -1,3 +1,8 @@
+
+//Git hub ma gaeara repository banuni 
+
+>> git remote add origin <repository ko link>
+
 >> git status
 
 >> git init
@@ -12,19 +17,12 @@
   >> git branch name (naya branch banauni)
   >> git checkout name (branch ma shift huni)
 
-
-//Git hub ma gaeara repository banuni 
-
->> git remote add origin <repository ko link>
-
 >> git push origin <branch>
 Or
->> git push origin "main"
+>> git push origin main
 
 
-
-
-// Github ma push vako lai clone banuni 
+// Github ma push vako lai clone garne
 
 >> git clone <repository ko link>
 or
